@@ -275,7 +275,7 @@ const House = () => {
               <h3 className='section-heading'>Our POpular Products</h3>
             </div>
             <div>
-              <div className="row">
+              <div className="row"> 
                 <ProductCard />
                 <ProductCard />
                 <ProductCard />
